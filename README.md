@@ -1,6 +1,21 @@
-# Assignment1
-Hello all! I must say that it took me quite a few minutes to realize that, when entering my GitHub password into RStudio, it does not visually track how many cases you type. This led me to wonder what I was doing wrong when attempting to  push a change/commit into GitHub. As you know by now, my name is Jay Jeffries. I have spoken in greater detail about my details in YellowDig, but I am a second year PhD student in the QQPM program of the  Educational Psychology department. While it seems like R and GitHub might fit in well with what the program name sounds like, I, surprisingly, have never utilized GitHub in this way. I have had other professors create wonderful and accessible textbooks into GitHub (like Dr. Vanderplas has), but I have never had to work with it in this fashion.
+# Getting Set Up with R, RStudio, SAS, and git
 
-Some other things that I have done during these past several months involve road tripping, moving across town into a new apartment, trying to keep several house plants alive, and watching various series on  Netflix, Hulu, and HBO. Currently, I am trying to get through the second season of Umbrella Academy but I am finding it incredibly cheesy and dry. If you have any recommendations, let me know! Other than that, I foresee myself staying busy by being a NEAR center grad consultant on campus as well as co teaching EDPS 800, foundations of educational research. I'm hoping that GitHub becomes more natural in the coming weeks, as this along was a little bit of a challenge.
+[Textbook link](https://srvanderplas.github.io/unl-stat850/tools.html)
 
-Here is a change to this file.
+This assignment assumes you have R, RStudio, and git installed successfully and that all of the programs are working together correctly. 
+
+Steps:
+
+1. Clone this repository in RStudio, following the steps (starting from step 2) in [this section](https://happygitwithr.com/existing-github-first.html#new-rstudio-project-via-git-clone-1) of Happy Git with R. 
+
+2. Add README.md to your repository if it is not already there. Make some change to README.md and commit your changes.
+
+3. Create a text file in RStudio and name it "Introduction". Write a couple of paragraphs introducing yourself to the class and describing your interests, computing experience, and/or other hobbies.
+
+4. Add Introduction to your repository (git add, or use the graphical interface).
+
+5. Commit your changes to your local git repository (e.g. the git repo on your machine)
+
+6. Use the push button to push your commits to the GitHub remote copy of your repository.
+
+7. Go to GitHub and see that your changes have appeared. You should have (at least) 2 commits to your repository - one adding or modifying README.md, another adding Introduction.
